@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e9ecef; /* light gray page background */
+    color: #212529;
+}
+
+article{
+    background-color: #f8f9fa; /* off-white for content blocks */
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+nav{
+    background-color: #343a40; /* bootstrap dark/nav color */
+}
+
+.card {
+    border: 1px solid #007bff;
+    background-color: #ffffff;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.navbar-nav .nav-link {
+    color: #adb5bd;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    color: #ffffff;
+}
+
+.footer-custom {
+    background-color: #343a40;
+    color: #fff;
+}
