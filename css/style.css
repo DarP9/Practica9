@@ -5,18 +5,18 @@
 }
 
 body {
-    background-color: #e9ecef; /* light gray page background */
+    background-color: #e9ecef; 
     color: #212529;
 }
 
 article{
-    background-color: #f8f9fa; /* off-white for content blocks */
+    background-color: #f8f9fa; 
     padding: 1rem;
     border-radius: 0.25rem;
 }
 
 nav{
-    background-color: #343a40; /* bootstrap dark/nav color */
+    background-color: #343a40; 
 }
 
 .card {
